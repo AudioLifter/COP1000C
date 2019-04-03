@@ -1,0 +1,4 @@
+﻿  sortSearch.c
+c:\users\bears\dropbox\valencia\2018\fall 2018\cop-1000c\sortsearch\sortsearch\sortsearch\sortsearch.c(276): warning C4133: 'function': incompatible types - from 'float *' to 'int *'
+c:\users\bears\dropbox\valencia\2018\fall 2018\cop-1000c\sortsearch\sortsearch\sortsearch\sortsearch.c(290): warning C4133: 'function': incompatible types - from 'float *' to 'int *'
+  sortSearch.vcxproj -> C:\Users\bears\Dropbox\Valencia\2018\Fall 2018\COP-1000C\sortSearch\sortSearch\Debug\sortSearch.exe
