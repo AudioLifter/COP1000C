@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raceCar", "raceCar\raceCar.vcxproj", "{148C4D37-57AC-4204-A933-627ED57E48A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Debug|x64.ActiveCfg = Debug|x64
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Debug|x64.Build.0 = Debug|x64
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Debug|x86.Build.0 = Debug|Win32
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Release|x64.ActiveCfg = Release|x64
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Release|x64.Build.0 = Release|x64
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Release|x86.ActiveCfg = Release|Win32
+		{148C4D37-57AC-4204-A933-627ED57E48A4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B3DE1C1-190F-4C53-AC58-2E2AE6BB292D}
+	EndGlobalSection
+EndGlobal
